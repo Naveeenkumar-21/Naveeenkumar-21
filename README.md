@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning java,python
 - 💞️ I’m looking to collaborate on projects on software
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: In this digital world,You are not alone!!!
+- 
